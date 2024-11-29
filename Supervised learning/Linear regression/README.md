@@ -12,7 +12,8 @@
 |  <span style="color:blue">7</span>  | <span style="color:green">19</span>  |
 |  <span style="color:blue">9</span>  | <span style="color:green">16</span>  | 
 
-<img width="344" alt="image" src="https://github.com/user-attachments/assets/5eff651c-54fe-462f-b00a-99f824b3ca62">
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/7b8660cf-cb77-4da5-9b35-3b4745b4bae5">
+
 
 
 What is Y if X=10? 
@@ -94,4 +95,5 @@ b = 2.45
 
 ---
 ### Result
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/bede62fd-2d49-4ea7-bbf9-192c0f65b743">
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/6d20ea4d-691c-41f7-a352-1f5192cf747b">
+
