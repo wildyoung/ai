@@ -35,7 +35,7 @@ Z=aX+bY+c, the difference between the predicted target variable (Z) and the actu
 <br></br>
 
 ---
-### How are the values of a and b in the linear model Y=aX+b that minimize the error determined?
+### How are the values of a and b and c in the linear model Z = aX+by+c that minimize the error determined?
 ---
 ### step1 - Square the error
 
